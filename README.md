@@ -4,7 +4,7 @@
 
 > **This software is an open-source project developed for the community and is not affiliated with any organization or institution.**  
 > It is shared purely for **educational purposes**, software development testing, and to contribute to the growth of the open-source community.
-f
+ff
 ---
 
 ### ⚖️ Legal Responsibility
